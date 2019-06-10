@@ -1,4 +1,4 @@
-Files=DestruyendoEdificios.java Histograma.java Leer.java
+Files=DestruyendoEdificios.java Histograma.java Scan.java
 
 all:	$(Files)
 	@javac DestruyendoEdificios.java -Xlint

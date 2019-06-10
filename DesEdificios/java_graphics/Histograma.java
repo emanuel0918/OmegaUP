@@ -8,6 +8,7 @@ import javax.swing.JLabel;
 import javax.swing.JPanel;
 import javax.swing.border.EmptyBorder;
 
+
 public class Histograma extends JFrame {
 
     private JPanel contentPane;
